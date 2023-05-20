@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "622662320580",
+    "project_id": "minishop-c3758",
+    "storage_bucket": "minishop-c3758.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622662320580:android:15f2d7732a3084c0056491",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622662320580-evgh658ta64jpp8okv7eiut6us24q45q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADkgNIhqR7NQ4FotfCS5sgqwJBeZ_UdTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622662320580-evgh658ta64jpp8okv7eiut6us24q45q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
